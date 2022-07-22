@@ -12,5 +12,5 @@ You can change this and store this repo elsewhere by changing the "SHELLDIR" var
 
 ### READMEREADER.SH
 
-This script will check for the existence of your README, man, and AUTHORS files in that order, creating them if they don't exist and nagging you if they're empty. If all three of those checks pass, the betty linter is ran on all files ending in `.c` and `.h` in the $SHELLDIR directory.
+This script will check for the existence of your README, man, and AUTHORS files in that order, creating them if they don't exist and nagging you if they're empty. If all three of those checks pass, the betty linter is ran on all files ending in `.c` and `.h` in the `$SHELLDIR` directory.
 
